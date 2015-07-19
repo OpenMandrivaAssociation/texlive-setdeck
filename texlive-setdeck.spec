@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-setdeck
 Version:	0.1
-Release:	9
+Release:	10
 Summary:	Typeset cards for Set
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck

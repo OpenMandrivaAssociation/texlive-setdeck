@@ -1,6 +1,6 @@
 Name:		texlive-setdeck
 Version:	40613
-Release:	1
+Release:	2
 Summary:	Typeset cards for Set
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck

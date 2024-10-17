@@ -3,7 +3,7 @@ Version:	40613
 Release:	2
 Summary:	Typeset cards for Set
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck
 License:	GPL3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/setdeck.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/setdeck.doc.r%{version}.tar.xz
